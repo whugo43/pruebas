@@ -6,8 +6,8 @@ android {
         applicationId = "com.olivia.sorpresas"
         minSdk = 24
         targetSdk = 35
-        versionCode = 4
-        versionName = "2.3"
+        versionCode = 5
+        versionName = "3.0"
     }
     buildTypes { release { isMinifyEnabled = false } }
     compileOptions {
